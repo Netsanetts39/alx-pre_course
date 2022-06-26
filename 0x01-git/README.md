@@ -1,3 +1,3 @@
-## -My first readme
+## My first readme
 
-[0x01-git](./0x01-git) - Starting to code today, so cool
+[0x01-git](./0x01-git) -Starting to code today, so cool
